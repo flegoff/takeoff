@@ -17,15 +17,15 @@ Please edit & complete with a link to the talk's slides.
 - Igor Wiedler - Event Driven PHP
 - Alexandre Morgault -
 - Kenneth Reitz - Flasky Goodness
-- William Candillion - JSONiq
+- William Candillion - [JSONiq](http://www.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
 
 ## Conference room
 
 - Rodney Rehm - [Designing Better JavaScript APIs](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
 - Peter Westendorp
 - Ole Michaelis - [Automated deployments with robots](https://speakerdeck.com/nesquick/automated-deployments-with-robots)
-- Remi Parmentier - Design for Developpers
+- Remi Parmentier - [Design for Developpers](http://fr.slideshare.net/HTeuMeuLeu/design-for-developers-16083792)
 - Jakob Mattson - [You are not service-oriented enough!](https://speakerdeck.com/jakobmattsson/you-are-not-service-oriented-enough)
-- Jack Franklin
+- Jack Franklin - [RequireJS](https://speakerdeck.com/jackfranklin/requirejs-take-off-conf)
 
 ## Other links
