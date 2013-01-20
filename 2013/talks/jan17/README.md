@@ -17,15 +17,15 @@ Please edit & complete with a link to the talk's slides.
 - Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
 - Alexandre Morgault - [NoSQL & JavaScript: A Love Story!](http://www.slideshare.net/slideshow/embed_code/16052552)
 - Kenneth Reitz - Flasky Goodness
-- William Candillion - [JSONiq](http://fr.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
+- William Candillion - [JSONiq](http://www.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
 
 ## Conference room
 
 - Rodney Rehm - [Designing Better JavaScript APIs](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
 - Peter Westendorp - [3D CSS, Finding the right perspective](http://peterwestendorp.github.com/3d-css-talk)
 - Ole Michaelis - [Automated deployments with robots](https://speakerdeck.com/nesquick/automated-deployments-with-robots)
-- Remi Parmentier - Design for Developpers
+- Remi Parmentier - [Design for Developpers](http://fr.slideshare.net/HTeuMeuLeu/design-for-developers-16083792)
 - Jakob Mattson - [You are not service-oriented enough!](https://speakerdeck.com/jakobmattsson/you-are-not-service-oriented-enough)
-- Jack Franklin
+- Jack Franklin - [RequireJS](https://speakerdeck.com/jackfranklin/requirejs-take-off-conf)
 
 ## Other links
