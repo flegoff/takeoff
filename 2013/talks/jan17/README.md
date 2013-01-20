@@ -5,10 +5,10 @@ Please edit & complete with a link to the talk's slides.
 ## Auditorium
 
 - Michal Budzynski - The photostory of everything
-- Robin Berjon - Web.Next
+- Robin Berjon - Web.Next - http://berjon.com/presentations/20130117-web.next/web.next.html
 - Geoff Schimdt - Meteor.JS
-- Hans Christian Reinl - Writing Awesome Code
-- Olivier Lacan - Science Based Developement - 
+- Hans Christian Reinl - Writing Awesome Code - http://slides.drublic.de/takeoff-awesome-code/
+- Olivier Lacan - Science Based Developement - https://speakerdeck.com/olivierlacan/science-based-development
 - Rob Spectre - Product Oriented Architectures - https://github.com/RobSpectre/Talks/tree/master/Product%20Oriented%20Architecture
 
 - Pierre Couzy - Edge Cases and Near-Peak Loads
@@ -23,9 +23,9 @@ Please edit & complete with a link to the talk's slides.
 
 - Rodney Rehm
 - Peter Westendorp
-- Ole Michaelis
+- Ole Michaelis - Automated deployments with robots - https://speakerdeck.com/nesquick/automated-deployments-with-robots
 - Remi Parmentier - Design for Developpers
-- Jakob Mattson
+- Jakob Mattson - You are not service-oriented enough! - https://speakerdeck.com/jakobmattsson/you-are-not-service-oriented-enough
 - Jack Franklin
 
 ## Other links
