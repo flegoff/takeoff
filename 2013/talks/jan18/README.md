@@ -8,6 +8,7 @@ Please edit & complete with a link to the talk's slides.
 
 ## Lightning talks
 
+- Brian Clozel - RESThub 2.0 - https://speakerdeck.com/bclozel/resthub-2-dot-0-not-yet-another-web-framework
 
 ## Conference room
 
