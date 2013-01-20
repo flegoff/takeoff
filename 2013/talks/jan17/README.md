@@ -14,7 +14,7 @@ Please edit & complete with a link to the talk's slides.
 - Pierre Couzy - Edge Cases and Near-Peak Loads
 - Diana Cheng - What are Device APIs ?
 - Phil Nash - CSS Laid Out
-- Igor Wiedler - Event Driven PHP
+- Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
 - Alexandre Morgault -
 - Kenneth Reitz - Flasky Goodness
 - William Candillion - JSONiq
