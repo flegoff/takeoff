@@ -17,7 +17,7 @@ Please edit & complete with a link to the talk's slides.
 - Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
 - Alexandre Morgault -
 - Kenneth Reitz - Flasky Goodness
-- William Candillion - JSONiq
+- William Candillion - [JSONiq](http://fr.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
 
 ## Conference room
 
