@@ -15,7 +15,7 @@ Please edit & complete with a link to the talk's slides.
 - Diana Cheng - What are Device APIs ?
 - Phil Nash - CSS Laid Out
 - Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
-- Alexandre Morgault -
+- Alexandre Morgault - [NoSQL & JavaScript: A Love Story!](http://www.slideshare.net/slideshow/embed_code/16052552)
 - Kenneth Reitz - Flasky Goodness
 - William Candillion - [JSONiq](http://fr.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
 
