@@ -7,6 +7,7 @@ Please edit & complete with a link to the talk's slides.
 - Irene Ros - Responsible use of data visualization
 - Gregg Pollack - [12 steps to win at software development](http://courseware.codeschool.com/uploads/12_steps_takeoffconf.pdf)
 - Thomas Parisot - [Business Logic in the Cloud with Google Apps Scripts](http://fr.slideshare.net/oncletom/business-logic-in-the-cloud-with-google-apps-scripts-16054925) - [PDF](http://fr.slideshare.net/oncletom/savedfiles?s_title=business-logic-in-the-cloud-with-google-apps-scripts-16054925&user_login=oncletom)
+- Anthony Eden [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
 
 ## Lightning talks
 
