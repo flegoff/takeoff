@@ -13,16 +13,16 @@ Please edit & complete with a link to the talk's slides.
 
 - Pierre Couzy - Edge Cases and Near-Peak Loads
 - Diana Cheng - What are Device APIs ?
-- Phil Nash - CSS Laid Out
-- Igor Wiedler - Event Driven PHP
-- Alexandre Morgault -
+- Phil Nash - CSS Laid Out - NOT YET ONLINE
+- Igor Wiedler - [ReactPHP Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
+- Alexandre Morgault - [NoSQL and Javascript](http://www.slideshare.net/alexandre_morgaut/nosql-and-javascript-a-love-story-16052552)
 - Kenneth Reitz - Flasky Goodness
 - William Candillion - [JSONiq](http://www.slideshare.net/wcandillon/jsoniq-the-sql-of-nosql)
 
 ## Conference room
 
 - Rodney Rehm - [Designing Better JavaScript APIs](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
-- Peter Westendorp
+- Peter Westendorp - [3D CSS](http://peterwestendorp.github.com/3d-css-talk/)
 - Ole Michaelis - [Automated deployments with robots](https://speakerdeck.com/nesquick/automated-deployments-with-robots)
 - Remi Parmentier - [Design for Developpers](http://fr.slideshare.net/HTeuMeuLeu/design-for-developers-16083792)
 - Jakob Mattson - [You are not service-oriented enough!](https://speakerdeck.com/jakobmattsson/you-are-not-service-oriented-enough)
