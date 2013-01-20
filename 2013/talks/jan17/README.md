@@ -21,7 +21,7 @@ Please edit & complete with a link to the talk's slides.
 
 ## Conference room
 
-- Rodney Rehm
+- Rodney Rehm - Designing Better JavaScript APIs - http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/
 - Peter Westendorp
 - Ole Michaelis - Automated deployments with robots - https://speakerdeck.com/nesquick/automated-deployments-with-robots
 - Remi Parmentier - Design for Developpers
