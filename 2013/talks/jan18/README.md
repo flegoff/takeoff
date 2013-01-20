@@ -13,5 +13,6 @@ Please edit & complete with a link to the talk's slides.
 - Brian Clozel - RESThub 2.0 - https://speakerdeck.com/bclozel/resthub-2-dot-0-not-yet-another-web-framework
 
 ## Conference room
+- Anselm Hannemann - [Push and use Responsive Images](http://slides.anselm-hannemann.com/respimg-takeoff/)
 
 ## Other links
