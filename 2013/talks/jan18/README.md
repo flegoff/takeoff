@@ -4,7 +4,8 @@ Please edit & complete with a link to the talk's slides.
 
 ## Auditorium
 
-- Irene Ros
+- Irene Ros - Responsible use of data visualization
+- Gregg Pollack - 12 steps to win at software development - http://courseware.codeschool.com/uploads/12_steps_takeoffconf.pdf
 
 ## Lightning talks
 
