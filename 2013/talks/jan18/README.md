@@ -4,7 +4,7 @@ Please edit & complete with a link to the talk's slides.
 
 ## Auditorium
 
-- Irene Ros - Responsible use of data visualization
+- Irene Ros - [Responsible use of data visualization](https://speakerdeck.com/iros/visualizing-data-responsibly)
 - Gregg Pollack - [12 steps to win at software development](http://courseware.codeschool.com/uploads/12_steps_takeoffconf.pdf)
 - Alexis Moussine-Pouchkine - HTML5 new APIS
 - Jean Pierre LeGoaller - Unlimited scalability with NoSQL databases
