@@ -16,5 +16,6 @@ Please edit & complete with a link to the talk's slides.
 ## Conference room
 
 - Anselm Hannemann - [Push and use Responsive Images](http://slides.anselm-hannemann.com/respimg-takeoff/)
+- João Moura - [Network Architecture base on Gaming](https://speakerdeck.com/joaomdmoura/network-architecture-based-on-gaming)
 
 ## Other links
