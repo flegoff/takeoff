@@ -26,7 +26,7 @@ Please edit & complete with a link to the talk's slides.
 
 - Thoben Schroder - Doing it angled - Musings with AngularJS
 - Anselm Hannemann - [Push and use Responsive Images](http://slides.anselm-hannemann.com/respimg-takeoff/)
-- Joao - Websockets / NodeJS
+- João Moura - [Network Architecture based on Gaming](https://speakerdeck.com/joaomdmoura/network-architecture-based-on-gaming)
 - Xavier Coulon - Build your website with Awestruct
 - James Williams - Creating Games with WebGL and Three.js
 
