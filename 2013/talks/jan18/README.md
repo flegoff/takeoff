@@ -10,9 +10,9 @@ Please edit & complete with a link to the talk's slides.
 - Jean Pierre LeGoaller - Unlimited scalability with NoSQL databases
 - Chris Molozian - Scaling your next project with schema-free databases
 - Sebastian Golash - Robots need love too!
-- Anthony Eden [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
+- Anthony Eden - [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
 - Francesc Campoy Flores - Go: code that grows with grace
-- Jonas Wagner - Creative Coding : Visualizing Music
+- Jonas Wagner - [Creative Coding : Visualizing Music](https://docs.google.com/presentation/d/1ISZp68AvPnUbm6ry1JDWM6_mJV8pu80RUQFaFRPy_JU/edit)
 - Jean Pierre LeGoaller - Loosely coupled architectures for high availability and scalability
 - Jerome Etienne - WebGL
 - Thomas Parisot - [Business Logic in the Cloud with Google Apps Scripts](http://fr.slideshare.net/oncletom/business-logic-in-the-cloud-with-google-apps-scripts-16054925) - [PDF](http://fr.slideshare.net/oncletom/savedfiles?s_title=business-logic-in-the-cloud-with-google-apps-scripts-16054925&user_login=oncletom)
@@ -22,6 +22,11 @@ Please edit & complete with a link to the talk's slides.
 - Jaromir Coufal - [Alchemy - Library of UI components and composites] (http://www.aeolusproject.org/docs/presentations/misc/2013-01-18_takeoff_alchemy.pdf), http://ui-alchemy.org
 - Brian Clozel - [RESThub 2.0](https://speakerdeck.com/bclozel/resthub-2-dot-0-not-yet-another-web-framework)
 - Thomas Riboulet - Stockholm Syndrom
+- Emmanuel Demey -
+- Clement Camin -
+- Aaron O'Mullan -
+- Samy Pessé -
+- Javier Gonzalez -
 
 ## Conference room
 
