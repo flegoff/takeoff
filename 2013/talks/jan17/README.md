@@ -13,7 +13,7 @@ Please edit & complete with a link to the talk's slides.
 
 - Pierre Couzy - Edge Cases and Near-Peak Loads
 - Diana Cheng - [What are Device APIs ?](http://www.slideshare.net/dianacheng/device-ap-istakeoffdianachengvf2)
-- Phil Nash - CSS Laid Out
+- Phil Nash - [CSS Laid Out](http://philnash.github.com/css-laid-out/) ([Speaker Deck](http://philnash.github.com/css-laid-out/))
 - Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
 - Alexandre Morgaut - [NoSQL & JavaScript: A Love Story!](http://www.slideshare.net/slideshow/embed_code/16052552)
 - Kenneth Reitz - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
