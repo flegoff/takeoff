@@ -6,15 +6,15 @@ Please edit & complete with a link to the talk's slides.
 
 - Irene Ros - [Responsible use of data visualization](https://speakerdeck.com/iros/visualizing-data-responsibly)
 - Gregg Pollack - [12 steps to win at software development](http://courseware.codeschool.com/uploads/12_steps_takeoffconf.pdf)
-- Alexis Moussine-Pouchkine - HTML5 new APIS
+- Ido Green - [HTML5 new APIS](http://ido-green.appspot.com/html5-webComp/index.html) and [other slides by popular request](http://ido-green.appspot.com/)
 - Jean Pierre LeGoaller - Unlimited scalability with NoSQL databases
 - Chris Molozian - Scaling your next project with schema-free databases
 - Sebastian Golash - Robots need love too!
 - Anthony Eden - [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
-- Francesc Campoy Flores - Go: code that grows with grace
+- Francesc Campoy Flores - [Go: code that grows with grace](http://talks.golang.org/2012/chat.slide)
 - Jonas Wagner - [Creative Coding : Visualizing Music](https://docs.google.com/presentation/d/1ISZp68AvPnUbm6ry1JDWM6_mJV8pu80RUQFaFRPy_JU/edit)
 - Jean Pierre LeGoaller - Loosely coupled architectures for high availability and scalability
-- Jerome Etienne - WebGL
+- Jerome Etienne - [WebGL - tQuery API](http://jeromeetienne.github.com/slides/tquery.takeoffconf2012/)
 - Thomas Parisot - [Business Logic in the Cloud with Google Apps Scripts](http://fr.slideshare.net/oncletom/business-logic-in-the-cloud-with-google-apps-scripts-16054925) - [PDF](http://fr.slideshare.net/oncletom/savedfiles?s_title=business-logic-in-the-cloud-with-google-apps-scripts-16054925&user_login=oncletom)
 
 ## Lightning talks
