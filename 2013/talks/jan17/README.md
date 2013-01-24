@@ -4,6 +4,8 @@ Please edit & complete with a link to the talk's slides.
 
 ## Auditorium
 
+Morning
+
 - Michal Budzynski - The photostory of everything
 - Robin Berjon - [Web.Next](http://berjon.com/presentations/20130117-web.next/web.next.html)
 - Geoff Schimdt - Meteor.JS
@@ -11,9 +13,11 @@ Please edit & complete with a link to the talk's slides.
 - Olivier Lacan - [Science Based Developement](https://speakerdeck.com/olivierlacan/science-based-development)
 - Rob Spectre - [Product Oriented Architectures](https://github.com/RobSpectre/Talks/tree/master/Product%20Oriented%20Architecture)
 
+Afternoon
+
 - Pierre Couzy - Edge Cases and Near-Peak Loads
 - Diana Cheng - [What are Device APIs ?](http://www.slideshare.net/dianacheng/device-ap-istakeoffdianachengvf2)
-- Phil Nash - [CSS Laid Out](http://philnash.github.com/css-laid-out/) ([Speaker Deck](https://speakerdeck.com/philnash/css-laid-out))
+- Phil Nash - [CSS Laid Out](http://philnash.github.com/css-laid-out/) - [Speaker Deck](https://speakerdeck.com/philnash/css-laid-out)
 - Igor Wiedler - [React: Event Driven PHP](https://speakerdeck.com/igorw/react-takeoffconf)
 - Alexandre Morgaut - [NoSQL & JavaScript: A Love Story!](http://www.slideshare.net/slideshow/embed_code/16052552)
 - Kenneth Reitz - [Flasky Goodness](https://speakerdeck.com/kennethreitz/flasky-goodness)
