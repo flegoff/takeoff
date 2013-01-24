@@ -31,7 +31,7 @@ Please edit & complete with a link to the talk's slides.
 
 ## Conference room
 
-- Thoben Schroder - Doing it angled - Musings with AngularJS
+- Thorben Schröder - [Doing it angled - Musings with AngularJS]( https://speakerdeck.com/walski/doing-it-angled-musings-with-angularjs)
 - Anselm Hannemann - [Push and use Responsive Images](http://slides.anselm-hannemann.com/respimg-takeoff/)
 - João Moura - [Network Architecture based on Gaming](https://speakerdeck.com/joaomdmoura/network-architecture-based-on-gaming)
 - Xavier Coulon - [Build your website with Awestruct](http://www.slideshare.net/XavierCoulon/build-your-website-with-awestruct-and-publish-it-on-the-cloud-with-git)
