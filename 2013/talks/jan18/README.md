@@ -24,9 +24,7 @@ Please edit & complete with a link to the talk's slides.
 - Thomas Riboulet - Stockholm Syndrom
 - Emmanuel Demey & Angela Ricci - [KAWWA - A Markup Pattern Library](http://fr.slideshare.net/AngelaRicci1/slide-share-takeoff)
 - Clement Camin -
-- Aaron O'Mullan -
-- Samy Pessé -
-- Javier Gonzalez -
+- Aaron O'Mullan / Samy Pessé -
 - Alex Toulemonde -
 
 ## Conference room
@@ -36,5 +34,3 @@ Please edit & complete with a link to the talk's slides.
 - João Moura - [Network Architecture based on Gaming](https://speakerdeck.com/joaomdmoura/network-architecture-based-on-gaming)
 - Xavier Coulon - [Build your website with Awestruct](http://www.slideshare.net/XavierCoulon/build-your-website-with-awestruct-and-publish-it-on-the-cloud-with-git)
 - James Williams - Creating Games with WebGL and Three.js
-
-## Other links
