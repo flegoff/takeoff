@@ -21,7 +21,7 @@ Please edit & complete with a link to the talk's slides.
 
 - Jaromir Coufal - [Alchemy - Library of UI components and composites] (http://www.aeolusproject.org/docs/presentations/misc/2013-01-18_takeoff_alchemy.pdf), http://ui-alchemy.org
 - Brian Clozel - [RESThub 2.0](https://speakerdeck.com/bclozel/resthub-2-dot-0-not-yet-another-web-framework)
-- Thomas Riboulet - Stockholm Syndrom
+- Thomas Riboulet - [What's the weather like in Stockholm](https://speakerdeck.com/mcansky/whats-the-weather-like-in-stockholm)
 - Emmanuel Demey & Angela Ricci - [KAWWA - A Markup Pattern Library](http://fr.slideshare.net/AngelaRicci1/slide-share-takeoff)
 - Clement Camin -
 - Aaron O'Mullan / Samy Pessé -
