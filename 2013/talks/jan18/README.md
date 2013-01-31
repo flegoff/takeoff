@@ -9,7 +9,7 @@ Please edit & complete with a link to the talk's slides.
 - Ido Green - [HTML5 new APIS](http://ido-green.appspot.com/html5-webComp/index.html) and [other slides by popular request](http://ido-green.appspot.com/)
 - Jean Pierre LeGoaller - Unlimited scalability with NoSQL databases
 - Chris Molozian - Scaling your next project with schema-free databases
-- Sebastian Golash - Robots need love too!
+- Sebastian Golash - [Robots need love too!](http://takeoff.asciidisco.com)
 - Anthony Eden - [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
 - Francesc Campoy Flores - [Go: code that grows with grace](http://talks.golang.org/2012/chat.slide)
 - Jonas Wagner - [Creative Coding : Visualizing Music](https://docs.google.com/presentation/d/1ISZp68AvPnUbm6ry1JDWM6_mJV8pu80RUQFaFRPy_JU/edit)
