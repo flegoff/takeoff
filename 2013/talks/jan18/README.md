@@ -11,7 +11,7 @@ Please edit & complete with a link to the talk's slides.
 - Chris Molozian - Scaling your next project with schema-free databases
 - Sebastian Golash - [Robots need love too!](http://takeoff.asciidisco.com)
 - Anthony Eden - [Clean and Clear Code with Erlang](https://speakerdeck.com/aeden/clean-and-clear-code-with-erlang)
-- Francesc Campoy Flores - [Go: code that grows with grace](http://talks.golang.org/2012/chat.slide)
+- Francesc Campoy Flores - [Go: code that grows with grace](https://docs.google.com/file/d/0B3uV8RvUBx1qcm9GVlRlTmo4dW8/edit)
 - Jonas Wagner - [Creative Coding : Visualizing Music](https://docs.google.com/presentation/d/1ISZp68AvPnUbm6ry1JDWM6_mJV8pu80RUQFaFRPy_JU/edit)
 - Jean Pierre LeGoaller - Loosely coupled architectures for high availability and scalability
 - Jerome Etienne - [WebGL - tQuery API](http://jeromeetienne.github.com/slides/tquery.takeoffconf2012/)
